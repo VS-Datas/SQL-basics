@@ -1,0 +1,10 @@
+SELECT name, gender, number
+FROM babies
+WHERE year = 1880 
+ORDER BY number ASC
+LIMIT 10;
+
+
+
+
+
